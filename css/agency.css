@@ -256,12 +256,11 @@ header .intro-text .intro-heading {
   font-size: 50px;
   line-height: 50px;
   margin-bottom: 50px;
-  color: #ffff99;
 }
 @media (min-width: 768px) {
   header .intro-text {
     padding-top: 550px;
-    padding-bottom: 50px;
+    padding-bottom: 25px;
   }
   header .intro-text .intro-lead-in {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
