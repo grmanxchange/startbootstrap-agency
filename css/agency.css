@@ -239,7 +239,7 @@ header {
   padding-top: 65px;
 }
 header .intro-text {
-  padding-top: 100px;
+  padding-top: 300px;
   padding-bottom: 50px;
 }
 header .intro-text .intro-lead-in {
@@ -275,7 +275,7 @@ header .intro-text .intro-heading {
     font-weight: 700;
     font-size: 50px;
     line-height: 50px;
-    margin-bottom: 10px;
+    margin-bottom: 25px;
   }
 }
 section {
