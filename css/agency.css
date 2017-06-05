@@ -148,7 +148,7 @@ fieldset[disabled] .btn-xl.active {
   background-color: white;
 }
 .navbar-custom {
-  background-color: #222222;
+  background-color: bcb8b8;
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
@@ -159,7 +159,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: #fec503;
+  color: #af0726;
 }
 .navbar-custom .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
