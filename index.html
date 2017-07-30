@@ -428,10 +428,14 @@
                             action="https://script.google.com/macros/s/AKfycbzOngozMZb3_ECnhbxwfduD98Fhxn3E3gwl9w-r3K2v0pwMiv0/exec">    
                     <div class="row">
                             <div class="col-md-6">
-                                <div class="form-group">
+                                <!--div class="form-group">
                                     <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
                                     <p class="help-block text-danger"></p>
-                                </div>
+                                </div-->
+                                <fieldset class="form-group">
+                                    <input type="text" class="form-control" id="name" name="name" 
+                                           placeholder="Your name" />
+                                    </fieldset>
                                 <fieldset class="form-group">
                                     <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
                                     <p class="help-block text-danger"></p>
@@ -449,7 +453,7 @@
                                 <fieldset class="form-group">
                                     <!--label for="message">Message: </label-->
                                     <textarea class="form-control" id="message" name="message" 
-                                        placeholder="Tell us what's on your mind..."></textarea>
+                                        placeholder="Anything else you would like for us to know?"></textarea>
                                 </fieldset>
                             </div>
                             <div class="clearfix"></div>
