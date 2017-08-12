@@ -59,7 +59,7 @@ h4
   margin: 0 auto;
 }
 .bg-light-gray {   
-  background-color: #f56df5;                /*#eeeeee;*/
+  background-color: #eeeeee;
 }
 .bg-darkest-gray {
   background-color: #0D263F;
@@ -78,7 +78,7 @@ h4
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: #0D263F;
-  background-color: white;
+  background-color: red /*white*/;
   border-color: white;
 }
 .btn-primary:active,
