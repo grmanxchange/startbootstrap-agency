@@ -185,7 +185,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: rgba(255,255,255,0.2);
 }
 .navbar-custom .navbar-toggle {
-  background-color: #white;
+  background-color: white;
   border-color: white;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
