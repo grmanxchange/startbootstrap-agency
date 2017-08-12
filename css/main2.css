@@ -182,7 +182,7 @@ fieldset[disabled] .btn-xl.active {
   -moz-transition: all ease 0.5s;
 }
 .navbar-custom .navbar-collapse {
-  border-color: #f6f612;
+  border-color: rgba(255,255,255,0.2);
 }
 .navbar-custom .navbar-toggle {
   background-color: #white;
