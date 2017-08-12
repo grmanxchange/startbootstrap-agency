@@ -78,7 +78,7 @@ h4
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: #0D263F;
-  background-color: red /*white*/;
+  background-color: white;
   border-color: white;
 }
 .btn-primary:active,
@@ -235,7 +235,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom {
-    background-color: transparent;
+    background-color: black /*transparent*/;
     padding: 25px 0;
     -webkit-transition: padding 0.3s;
     -moz-transition: padding 0.3s;
@@ -254,7 +254,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom.affix {
-    background-color: #5E5D55;
+    background-color: black /*#5E5D55*/;
     padding: 10px 0;
   }
   .navbar-custom.affix .navbar-brand {
